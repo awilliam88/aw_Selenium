@@ -1,0 +1,9 @@
+package selenium.pages;
+
+public class LoginPage 
+{
+	
+	@FindBy(id = " ")
+	public WebElement username;
+
+}

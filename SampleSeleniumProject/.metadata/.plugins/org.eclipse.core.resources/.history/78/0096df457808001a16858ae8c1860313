@@ -1,0 +1,21 @@
+package selenium.tests;
+
+import org.testng.annotations.Test;
+
+import selenium.pages.BeforeClass;
+
+public class LoginTest 
+{
+
+	@BeforeClass
+	public void SetupBrowser()
+	{
+		
+	}
+	@Test
+	public void login()
+	{
+		
+	}
+
+}
